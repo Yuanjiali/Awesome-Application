@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
 
-[![Awesome](https://github.com/Yuanjiali/ImageLibrary/blob/master/SVG/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://github.com/Yuanjiali/ImageLibrary/blob/master/SVG/chinese.svg)](README.md)
+[![Awesome](https://github.com/Yuanjiali/ImageLibrary/blob/master/SVG/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://github.com/Yuanjiali/ImageLibrary/blob/master/SVG/macOS.svg)](MacOS.md)
 
 > Windows上优质&精选的最佳应用程序及工具列表。
 
